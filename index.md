@@ -1,29 +1,4 @@
-<img src="./media/image1.png" style="width:2.98611in;height:0.9131in" alt="Logo Description automatically generated" />
 
-How to configure payment settings using Stripe
-
-SOP Document
-
-Version 0.1
-
-October 2021
-
-**Document Version History**
-
-This document has been produced XOOA.
-
-This document follows the versioning scheme ‘**x.y**’:
-
--   ‘**x**’ increments with major changes to the document, including new
-    feature updates or additions.
-
--   ‘**y**’ increments with small changes to the document, such as minor
-    edits, additions, or deletions.
-
-| Version Number | Date            | Description | Approver(s)                  |
-|----------------|-----------------|-------------|------------------------------|
-| 0.1            | 16 October 2021 | Draft       | Shivangi Jain/ Sandeep Patel |
-|                |                 |             |                              |
 
 # Table of Contents
 
